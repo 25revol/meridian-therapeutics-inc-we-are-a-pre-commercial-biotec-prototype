@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name": "Meridian Therapeutics, Inc.",
+    "industry": "biotech_pharma",
+    "stage": "pre-commercial",
+    "phase": "Phase 2 / BLA-enabling"
+  },
+  "hero": {
+    "headline": "One quality system built for BLA-stage GMP",
+    "subtext": "Connect your controlled documents, CAPA workflows, and LIMS data in a single audit-ready environment as you scale toward BLA-enabling activities."
+  },
+  "pageTitle": "Meridian Therapeutics QMS — BLA-Ready Quality Operations",
+  "emptyStates": {
+    "generic": "No records yet. Controlled documents, CAPAs, and lot data will appear here once ingested from your connected systems.",
+    "documents": "No controlled documents found. Documents migrated from MasterControl or your legacy eQMS will appear here.",
+    "capas": "No CAPA records yet. Open and closed CAPAs from your connected systems will populate this view.",
+    "lots": "No lot records ingested. LIMS batch and lot data will appear here once your integration is configured."
+  },
+  "footer": {
+    "tagline": "Built for pre-commercial biotechs navigating the early- to late-stage GMP transition.",
+    "companyContext": "Supporting Meridian Therapeutics as you advance toward BLA-enabling activities."
+  },
+  "problemContext": {
+    "summary": "Quality operations fragmented across MasterControl, legacy eQMS, and LIMS — creating audit risk as BLA activities approach.",
+    "painPoints": [
+      "Fragmented controlled document management across systems",
+      "CAPA workflows disconnected from deviation and lot records",
+      "Audit readiness gaps during early-to-late-stage GMP transition",
+      "BLA-enabling timeline pressure (~18 months) with unintegrated quality data"
+    ]
+  },
+  "narrative": {
+    "clickPaths": []
+  }
+}
